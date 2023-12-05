@@ -1,2 +1,2 @@
-Basic calculator with currency converter
+Simple calculator with currency converter
 
